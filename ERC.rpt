@@ -1,0 +1,86 @@
+ERC report (2022 March 29, Tuesday 11:03:22, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 76.20 mm): Symbol U1 [DFR0654-DFR0654] Pin RST [RESET, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 81.28 mm): Symbol U1 [DFR0654-DFR0654] Pin ~ [, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(167.64 mm, 83.82 mm): Symbol #PWR0105 [GND] Pin 1 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 109.22 mm): Symbol U1 [DFR0654-DFR0654] Pin 0 [D5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 101.60 mm): Symbol U1 [DFR0654-DFR0654] Pin 2 [D9, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 99.06 mm): Symbol U1 [DFR0654-DFR0654] Pin 21 [SDA, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 96.52 mm): Symbol U1 [DFR0654-DFR0654] Pin 22 [SCL, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 99.06 mm): Symbol U1 [DFR0654-DFR0654] Pin 15 [A4, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 104.14 mm): Symbol U1 [DFR0654-DFR0654] Pin 34 [A2, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 101.60 mm): Symbol U1 [DFR0654-DFR0654] Pin 35 [A3, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 81.28 mm): Symbol U1 [DFR0654-DFR0654] Pin ~ [, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 104.14 mm): Symbol U1 [DFR0654-DFR0654] Pin 13 [D7, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 106.68 mm): Symbol U1 [DFR0654-DFR0654] Pin 14 [D6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 81.28 mm): Symbol U1 [DFR0654-DFR0654] Pin ~ [, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 116.84 mm): Symbol U1 [DFR0654-DFR0654] Pin 1 [TX, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 114.30 mm): Symbol U1 [DFR0654-DFR0654] Pin 25 [D2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(167.64 mm, 119.38 mm): Symbol U1 [DFR0654-DFR0654] Pin 3 [RX, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 111.76 mm): Symbol U1 [DFR0654-DFR0654] Pin 12 [D13, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 116.84 mm): Symbol U1 [DFR0654-DFR0654] Pin 16 [D11, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 119.38 mm): Symbol U1 [DFR0654-DFR0654] Pin 17 [D10, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 109.22 mm): Symbol U1 [DFR0654-DFR0654] Pin 36 [A0, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 106.68 mm): Symbol U1 [DFR0654-DFR0654] Pin 39 [A1, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.08 mm, 114.30 mm): Symbol U1 [DFR0654-DFR0654] Pin 4 [D12, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(50.80 mm, 66.04 mm): Symbol J2 [Conn_02x04_Counter_Clockwise] Pin 2 [Pin_2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(50.80 mm, 71.12 mm): Symbol J2 [Conn_02x04_Counter_Clockwise] Pin 4 [Pin_4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(50.80 mm, 63.50 mm): Symbol J2 [Conn_02x04_Counter_Clockwise] Pin 1 [Pin_1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(241.30 mm, 100.33 mm): Symbol J1 [Conn_01x04_Male] Pin 1 [Pin_1, Passive, Line]
+
+ ** ERC messages: 27  Errors 27  Warnings 0
