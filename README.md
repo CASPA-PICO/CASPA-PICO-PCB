@@ -16,3 +16,7 @@
 
 <img src="https://freeimage.host/i/XBimyg"><img src="https://iili.io/XBimyg.md.png" alt="XBimyg.md.png"></img>
 
+
+
+Pour imprimer le PCB sans effectuer de changement vous pouvez directement récupéré le dossier
+
